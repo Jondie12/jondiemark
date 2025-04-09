@@ -1,4 +1,4 @@
-# <a href="https://www.linkedin.com/in/joshmadakor/">Jondie Mark Autentico</a>'s IT and Cybersecurity Project Portfolio 🔐
+# <a href="https://www.linkedin.com/in/joshmadakor/">Jondie Mark</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
 
@@ -16,14 +16,13 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🤳 Connect With Me
 
-
-[<img align="left" alt="___________ | Facebook" width="22px" src="/www.facebook.com/share/1BVzkHZfwH/?mibextid=wwXIfr)" />][facebook]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="linkedin.com/in/jondie-mark-autentico-8585951b3" />][linkedin]
-
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://x.com/jondie01285956?s=21.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://www.linkedin.com/in/jondie-mark-autentico-8585951b3.svg" />][linkedin]
+[<img align="left" alt="___________ | Facebook" width="22px" src="https://www.facebook.com/share/1BVzkHZfwH/?mibextid=wwXIfr.svg" />][facebook]
 
 [twitter]: https://twitter.com/___________
 [instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/
+[linkedin]: https://linkedin.com/in/___________
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
