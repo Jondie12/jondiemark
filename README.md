@@ -1,6 +1,6 @@
 # <a href="https://www.linkedin.com/in/jondie-mark-autentico-8585951b3/">Jondie Mark</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+I am deeply passionate about cybersecurity and thrive on tackling intricate challenges through hands-on projects. From vulnerability management to threat detection, these projects enable me to immerse myself in the dynamic world of cybersecurity, where innovation and adaptability are key. I invite you to explore my projects, which showcase my dedication to enhancing security operations and processes. Through these endeavors, I continually refine my skills and stay at the forefront of emerging cybersecurity trends.
 
 
 ## ⚠️ Vulnerability Management Projects
