@@ -17,7 +17,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## 🤳 Connect With Me
 
 [<img align="left" alt="https://twitter.com/x.com/jondie01285956?s=21| YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="https://twitter.com/x.com/jondie01285956?s=21| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
+[<img align="left" alt="https://twitter.com/x.com/jondie01285956?s=21| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][twitter]
 [<img align="left" alt="www.linkedin.com/in/jondie-mark-autentico-8585951b3| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="www.facebook.com/share/1BVzkHZfwH/?mibextid=wwXIfr| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][facebook]
 
