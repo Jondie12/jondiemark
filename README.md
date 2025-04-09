@@ -21,10 +21,10 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 [<img align="left" alt="www.linkedin.com/in/jondie-mark-autentico-8585951b3| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="www.facebook.com/share/1BVzkHZfwH/?mibextid=wwXIfr| Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][facebook]
 
-[twitter]: https://twitter.com/x.com/jondie01285956?s=21
+[twitter]: https://x.com/jondie01285956?s=21
 [youtube]: https://www.youtube.com/c/___________
-[facebook]: https://www.facebook.com/https://www.facebook.com/share/1BVzkHZfwH/?mibextid=wwXIfr
-[linkedin]: https://linkedin.com/in/https://www.linkedin.com/in/jondie-mark-autentico-8585951b3
+[facebook]: https://www.facebook.com/share/1BVzkHZfwH/?mibextid=wwXIfr
+[linkedin]: https://linkedin.com/in/jondie-mark-autentico-8585951b3
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
