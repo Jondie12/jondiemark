@@ -6,7 +6,7 @@ I am deeply passionate about cybersecurity and thrive on tackling intricate chal
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/Jondie12/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/Jondie12/Problematic-Vulnerability-Remediation)**
 
 ## 🚨 Threat Hunting and Security Operations
 
